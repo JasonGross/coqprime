@@ -1,0 +1,42 @@
+[PRIMO - Primality Certificate]
+Version=3.0.2
+WebSite=http://www.ellipsa.net/
+Format=3
+ID=B2E3D035006C7
+Created=02/26/2007 03:26:16 PM
+TestCount=3
+Status=Candidate certified prime
+
+[Running Times]
+Initialization=0.00s
+1stPhase=0.00s
+2ndPhase=0.00s
+Total=0.00s
+
+[Candidate]
+File=pp1.in
+N$=1056E0F36A6443DE2DF81
+HexadecimalSize=21
+DecimalSize=25
+BinarySize=81
+
+[1]
+Type=1
+S$=15280
+R$=C5B6AF9E2CD26D93
+B$=2
+
+[2]
+Type=3
+S$=645171
+R$=1F88AB0B351
+A$=0
+B$=6
+T$=1
+
+[3]
+Type=0
+
+[Signature]
+1$=2DBB820A6D49B4CE8EB12B8DBC79D5F32DB6B225
+2$=317519A6E9240CE9B04F2FCF0F382DDE25B936F4

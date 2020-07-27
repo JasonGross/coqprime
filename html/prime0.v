@@ -1,0 +1,19 @@
+Lemma prime1234567890123456789012353: prime  1234567890123456789012353.
+apply (Pocklington_refl
+
+(SPock_certif
+1234567890123456789012353
+2
+((14246767565124824467, 1)::nil))
+(
+(Ell_certif
+14246767565124824467
+6574449
+((2166990353233,1)::nil)
+0
+2058
+7
+49)
+:: (Proof_certif 2166990353233 prime2166990353233) :: nil)).
+exact_no_check (refl_equal true).
+Time Qed.
